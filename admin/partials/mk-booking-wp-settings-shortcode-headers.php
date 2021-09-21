@@ -1,0 +1,1 @@
+<p>Shortcode settings</p>
